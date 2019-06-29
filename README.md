@@ -1,7 +1,7 @@
 #the result : 
 
 
-├── main
+├── main \n
 ├── home
 │   ├── branch 1
 │   ├── branch 2
